@@ -1,8 +1,8 @@
-# react-template
+# RSC と RCC の比較
 
-React 用テンプレート
+RSC (React Server Component) と RCC (React Client Component)を比較する。
 
 ## :notebook: ドキュメント一覧
 
+- [React + Vite](/docs/react+vite.md)
 - [:file_cabinet: プロジェクト構造](/docs/project-structure.md)
-- [Create React App](/docs/create-react-app.md)
